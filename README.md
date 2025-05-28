@@ -11,6 +11,18 @@ Kay McNulty foi uma das primeiras mulheres programadoras da história da computa
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/bbduarte">
+        <img src="https://github.com/bbduarte.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt=""/>
+        <br /><sub><b>Bruno Duarte</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="http://github.com/Camile0318">
+        <img src="http://github.com/Camile0318.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt=""/>
+        <br /><sub><b>Camile Oliveira</b></sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="http://github.com/fdiogo1">
         <img src="http://github.com/fdiogo1.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt=""/>
         <br /><sub><b>Diogo Ferreira</b></sub>
@@ -20,12 +32,6 @@ Kay McNulty foi uma das primeiras mulheres programadoras da história da computa
       <a href="http://github.com/Eduard0803">
         <img src="http://github.com/Eduard0803.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt=""/>
         <br /><sub><b>Eduardo Silva</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bbduarte">
-        <img src="https://github.com/bbduarte.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt=""/>
-        <br /><sub><b>Bruno Duarte</b></sub>
       </a>
     </td>
     <td align="center">
