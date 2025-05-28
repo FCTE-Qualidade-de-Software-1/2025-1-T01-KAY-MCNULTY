@@ -1,1 +1,14 @@
-.venv
+# Ambiente virtual
+.venv/
+
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Diretório do MkDocs build
+/site
+
+# Arquivos sensíveis de ambiente
+.env
