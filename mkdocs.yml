@@ -13,18 +13,12 @@ theme:
 #  favicon: assets/logo/logo.png
   features:
     - navigation.tabs
-    - navigation.expand
-    - navigation.sections
-    - toc.integrate
-    - search.highlight
-    - search.suggest
-    - content.code.annotate
-    - navigation.top
+    - navigation.tabs.sticky
   palette:
     # Modo claro
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
+      primary: pink
       accent: amber
       toggle:
         icon: material/brightness-7
@@ -32,7 +26,7 @@ theme:
     # Modo escuro
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
+      primary: pink
       accent: amber
       toggle:
         icon: material/brightness-4
@@ -57,3 +51,7 @@ extra:
 
 nav:
   - Início: index.md
+  - Propósito de Avaliação do Produto: processo/processo_avaliacao_agromart.md
+  - GQM: 
+    - Definição: gqm/gqm_definicao_agromart.md
+    - Abstraction Sheets: gqm/abstraction-sheet.md
