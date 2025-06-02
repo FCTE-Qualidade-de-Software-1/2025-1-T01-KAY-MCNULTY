@@ -45,9 +45,11 @@ O AgroMart contribui diretamente com os seguintes ODS da Agenda 2030:
 
 | Matrícula | Nome do Integrante     | Contribuição (%) |
 |-----------|------------------------|------------------|
-| xxxxxxxx  | Nome Completo 1        | 33%              |
-| xxxxxxxx  | Nome Completo 2        | 33%              |
-| xxxxxxxx  | Nome Completo 3        | 34%              |
+| 242034483  | Bruno Duarte        | 20%              |
+| 251035022  | Camile Oliveira        | 20%              |
+| 221008570  | Diogo Ferreira        | 20%              |
+| 221008580  | Eduardo Silva        | 20%              |
+| 231035150  | Júlia Reis        | 20%              |
 
 ## Bibliografia
 
