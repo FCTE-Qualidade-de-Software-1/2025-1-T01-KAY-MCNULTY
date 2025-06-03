@@ -78,10 +78,35 @@ Com isso, o AgroMart contribui para o fortalecimento da agricultura de base fami
 
 ---
 
-### Equipe
+## Tabela de Contribuição
 
-| Matrícula | Nome completo         | Contribuição (%) |
+| Matrícula | Nome do Integrante     | Contribuição (%) |
 |-----------|------------------------|------------------|
-| xxxxxxxx  | Nome do Integrante 1   | 33%              |
-| xxxxxxxx  | Nome do Integrante 2   | 33%              |
-| xxxxxxxx  | Nome do Integrante 3   | 34%              |
+| 242034483  | Bruno Duarte        | 20%              |
+| 251035022  | Camile Oliveira        | 20%              |
+| 221008570  | Diogo Ferreira        | 20%              |
+| 221008580  | Eduardo Silva        | 20%              |
+| 231035150  | Júlia Reis        | 20%              |
+
+## Bibliografia
+
+- **ISO/IEC 25010:2011.** *Systems and Software Engineering — Systems and Software Quality Requirements and Evaluation (SQuaRE) — System and Software Quality Models*. International Organization for Standardization, 2011.
+
+- BASILI, Victor R.; CALDIERA, Gianluigi; ROMBACH, H. Dieter. *The Goal Question Metric Approach*. Encyclopedia of Software Engineering, 1994.
+
+- PRESSMAN, Roger S. *Engenharia de Software: uma abordagem profissional*. 7. ed. São Paulo: McGraw-Hill, 2010.
+
+## Referências Bibliográficas
+
+- GITHUB. Hackathon FGA 2020 – AgroMart. Disponível em: [https://github.com/Hackathon-FGA-2020/AgroMart](https://github.com/Hackathon-FGA-2020/AgroMart). Acesso em: 3 jun. 2025.
+
+- DEX/UnB – Decanato de Extensão. *Estudantes apresentam soluções inovadoras contra impactos da COVID-19*. Disponível em: [https://dex.unb.br/noticias/688-estudantes-apresentam-solucoes-inovadoras-contra-impactos-da-covid-19](https://dex.unb.br/noticias/688-estudantes-apresentam-solucoes-inovadoras-contra-impactos-da-covid-19). Acesso em: 3 jun. 2025.
+
+- ONU – Organização das Nações Unidas. *Objetivos de Desenvolvimento Sustentável (Agenda 2030)*. Disponível em: [https://brasil.un.org/pt-br/sdgs](https://brasil.un.org/pt-br/sdgs). Acesso em: 3 jun. 2025.
+
+
+## Histórico de versões
+Versão |   Data  | Descrição | Autor(es) | Revisor(es)
+------ | ---- | ------ | ---------- | ----------
+| 1.0 | 02/06/2025 | Criação da página de definição. | [Diogo Ferreira](https://github.com/fdiogo1) | [Júlia Massuda](http://github.com/JuliaReis18)
+| 1.1 | 03/06/2025 | Adicionando tabela de contribuição, Referências e Histórico de versões. | [Júlia Massuda](http://github.com/JuliaReis18) | Add revisor aqui 
