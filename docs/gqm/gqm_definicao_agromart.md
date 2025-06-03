@@ -1,10 +1,5 @@
 # GQM - Fase de Definição  
-**Projeto:** AgroMart  
-**Disciplina:** Qualidade de Software 1 (FGA0315)  
-**Professora:** Cristiane Ramos  
-**Semestre:** 2025-1  
 
----
 
 ## Objetivo de Negócio do AgroMart
 
@@ -12,7 +7,6 @@ O AgroMart tem como objetivo principal facilitar a comercialização de produtos
 
 Com isso, o AgroMart contribui para o fortalecimento da agricultura de base familiar, a valorização do consumo local e a promoção de cadeias sustentáveis de produção e distribuição, alinhando-se aos Objetivos de Desenvolvimento Sustentável da ONU, como ODS 2 (Fome Zero), ODS 3 (Saúde e Bem-Estar) e ODS 12 (Consumo e Produção Responsáveis).
 
----
 
 ## Objetivo de Medição 1 – Usabilidade
 
@@ -33,8 +27,6 @@ Com isso, o AgroMart contribui para o fortalecimento da agricultura de base fami
 - **Q3:** A interface é compreensível e intuitiva para diferentes públicos?  
   **Hipótese Q3:** Mais de 75% dos usuários avaliam positivamente a interface em testes de usabilidade.
 
----
-
 ## Objetivo de Medição 2 – Compatibilidade
 
 **Analisar:** o sistema AgroMart (web e mobile)  
@@ -54,7 +46,6 @@ Com isso, o AgroMart contribui para o fortalecimento da agricultura de base fami
 - **Q3:** Há falhas ou comportamentos inesperados ao alternar entre dispositivos ou sistemas?  
   **Hipótese Q3:** Ocorrências de incompatibilidades graves são inferiores a 2%.
 
----
 
 ## Relação entre Objetivos de Medição, Questões e Métricas
 
@@ -76,7 +67,6 @@ Com isso, o AgroMart contribui para o fortalecimento da agricultura de base fami
 
 
 
----
 
 ## Tabela de Contribuição
 
