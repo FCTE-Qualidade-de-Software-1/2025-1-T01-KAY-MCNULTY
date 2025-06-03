@@ -9,8 +9,8 @@ edit_uri: edit/docs/docs/
 theme:
   name: material
   language: pt-BR
-#  logo: assets/logo/logo.png
-#  favicon: assets/logo/logo.png
+  logo: assets/images/kay.jpg   
+  favicon: assets/images/kay.jpg  
   features:
     - navigation.tabs
     - navigation.tabs.sticky
