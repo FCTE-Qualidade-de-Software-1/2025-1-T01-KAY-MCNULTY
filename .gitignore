@@ -12,3 +12,5 @@ __pycache__/
 
 # Arquivos sensíveis de ambiente
 .env
+
+site/
