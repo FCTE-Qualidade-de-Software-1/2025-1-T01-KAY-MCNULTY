@@ -30,10 +30,9 @@
 
 ## Historico de versões
 
-Versão |   Data  | Descrição | Autor(es) | Revisor(es)
------- | ---- | ------ | ---------- | ----------
-| 1.0 | 02/06/2025 | Criação dos abstraction sheets. | [Diogo Ferreira](http://github.com/fdiogo1) | Add revisor aqui 
-| 1.1 | 02/06/2025 | Atualização com base nos objetivos de medição detalhados. | [Diogo Ferreira](http://github.com/fdiogo1) | Add revisor aqui 
-| 1.2 | 03/06/2025 | Edição da disposição das Abstraction Sheets. | [Júlia Massuda](https://github.com/JuliaReis18) | Add revisor aqui 
-
+| Versão |   Data  | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | ------ | ---------- | ---------- |
+| 1.0 | 02/06/2025 | Criação dos abstraction sheets. | [Diogo Ferreira](http://github.com/fdiogo1) | [Eduardo Belarmino](https://github.com/eduard0803) | 
+| 1.1 | 02/06/2025 | Atualização com base nos objetivos de medição detalhados. | [Diogo Ferreira](http://github.com/fdiogo1) | [Eduardo Belarmino](https://github.com/eduard0803) | 
+| 1.2 | 03/06/2025 | Edição da disposição das Abstraction Sheets. | [Júlia Massuda](https://github.com/JuliaReis18) | [Eduardo Belarmino](https://github.com/eduard0803) | 
 
