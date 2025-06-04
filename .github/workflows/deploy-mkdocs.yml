@@ -21,7 +21,7 @@ jobs:
       - name: Instalar dependências
         run: |
           python -m pip install --upgrade pip
-          pip install mkdocs
+          pip install mkdocs mkdocs-material pymdown-extensions
 
       - name: Build do site
         run: mkdocs build
