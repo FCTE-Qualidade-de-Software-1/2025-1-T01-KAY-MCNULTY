@@ -66,5 +66,5 @@ O AgroMart contribui diretamente com os seguintes ODS da Agenda 2030:
 ## 📝 Histórico de Versões
 
 | Versão | Data       | Responsável        | Alterações Realizadas                                    |
-|--------|------------|--------------------|-----------------------------------------------------------|
-| 1.0    | 02/06/2025 | Diogo Ferreira | Versão inicial do processo de avaliação documentado       |
+|--------|------------|--------------------|--------------------------------------------------------- |
+| 1.0    | 02/06/2025 | Diogo Ferreira | Versão inicial do processo de avaliação documentado          |

@@ -53,6 +53,6 @@ Kay McNulty foi uma das primeiras mulheres programadoras da história da computa
 
 
 ## Histórico de versões
-Versão |   Data  | Descrição | Autor(es) | Revisor(es)
------- | ---- | ------ | ---------- | ----------
-|`1.0`|28/5/2025|Criação da GitPage. | [Diogo Ferreira](https://github.com/fdiogo1) | [Júlia Massuda](http://github.com/JuliaReis18)
+| Versão |   Data  | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | ------ | ---------- | ---------- |
+|`1.0`|28/5/2025| Criação da GitPage. | [Diogo Ferreira](https://github.com/fdiogo1) | [Júlia Massuda](http://github.com/JuliaReis18)

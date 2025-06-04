@@ -96,7 +96,7 @@ Com isso, o AgroMart contribui para o fortalecimento da agricultura de base fami
 
 
 ## Histórico de versões
-Versão |   Data  | Descrição | Autor(es) | Revisor(es)
------- | ---- | ------ | ---------- | ----------
+| Versão |   Data  | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | ------ | ---------- | ---------- |
 | 1.0 | 02/06/2025 | Criação da página de definição. | [Diogo Ferreira](https://github.com/fdiogo1) | [Júlia Massuda](http://github.com/JuliaReis18)
-| 1.1 | 03/06/2025 | Adicionando tabela de contribuição, Referências e Histórico de versões. | [Júlia Massuda](http://github.com/JuliaReis18) | Add revisor aqui 
+| 1.1 | 03/06/2025 | Adicionando tabela de contribuição, Referências e Histórico de versões. | [Júlia Massuda](http://github.com/JuliaReis18) | [Eduardo Belarmino](https://github.com/eduard0803) |
