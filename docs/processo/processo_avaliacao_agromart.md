@@ -64,7 +64,6 @@ O AgroMart contribui diretamente com os seguintes ODS da Agenda 2030:
 - Plataforma Agenda 2030 – ONU. *Objetivos de Desenvolvimento Sustentável*. Disponível em: [https://brasil.un.org/pt-br/sdgs](https://brasil.un.org/pt-br/sdgs)
 
 ## 📝 Histórico de Versões
-
-| Versão | Data       | Responsável        | Alterações Realizadas                                    |
-|--------|------------|--------------------|--------------------------------------------------------- |
-| 1.0    | 02/06/2025 | Diogo Ferreira | Versão inicial do processo de avaliação documentado          |
+| Versão |   Data  | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---------- | -------------- | ---------- | ---------- |
+| 1.0    | 02/06/2025 | Versão inicial do processo de avaliação documentado | [Diogo Ferreira](https://github.com/fdiogo1) | [Eduardo Belarmino](https://github.com/eduard0803) | 
