@@ -1,0 +1,47 @@
+name: Deploy MkDocs to GitHub Pages
+
+# Dispara este workflow sempre que algo for "pushado" na branch main (ou ajuste conforme a sua branch principal)
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1) Faz checkout (puxa o seu repositório)
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2) Configura o Python (versão 3.x)
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # 3) Instala as dependências do MkDocs
+      #    Se você tiver um requirements.txt, troque este comando por:
+      #      run: pip install -r requirements.txt
+      - name: Install MkDocs & tema (se necessário)
+        run: |
+          python -m pip install --upgrade pip
+          pip install mkdocs mkdocs-material
+
+      # 4) Gera o site em /site
+      - name: Build site with MkDocs
+        run: mkdocs build --clean
+
+      # 5) Publica a pasta "site/" na branch gh-pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          # Usa o GITHUB_TOKEN automático fornecido pelo GitHub
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Pasta que será publicada (mkdocs coloca tudo em /site por padrão)
+          publish_dir: ./site
+          # Branch onde o conteúdo será enviado (cria/atualiza gh-pages)
+          publish_branch: gh-pages
+          # Você pode ajustar o "cname" ou "package" se usar domínio customizado,
+          # mas para deploy simples ao gh-pages não precisa alterar.
