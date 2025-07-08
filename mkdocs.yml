@@ -56,4 +56,13 @@ nav:
     - GQM: gqm/gqm_definicao_agromart.md
     - Abstraction Sheets: gqm/abstraction-sheet.md
   - Fase 3: fase3/fase3.md
+  - Fase 4:
+    - Compatibilidade:
+      - Q1: fase4/compatibilidade/q1.md
+      - Q2: fase4/compatibilidade/q2.md
+      - Q3: fase4/compatibilidade/q3.md 
+    - Usabilidade:
+      - Q1: fase4/usabilidade/q1.md
+      - Q2: fase4/usabilidade/q2.md
+      - Q3: fase4/usabilidade/q3.md 
 
