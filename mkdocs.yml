@@ -9,8 +9,8 @@ edit_uri: edit/docs/docs/
 theme:
   name: material
   language: pt-BR
-  logo: assets/images/kay.jpg   
-  favicon: assets/images/kay.jpg  
+  logo: assets/images/kay.jpg
+  favicon: assets/images/kay.jpg
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -37,7 +37,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences:
       custom_fences:
-        - name: mermaid      # habilita ```mermaid
+        - name: mermaid # habilita ```mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.highlight
@@ -48,22 +48,24 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
+extra_javascript:
+  - https://unpkg.com/mermaid@10.4.0/dist/mermaid.min.js
 
 nav:
   - Início: index.md
   - Fase 1: processo/processo_avaliacao_agromart.md
-  - Fase 2: 
-    - GQM: gqm/gqm_definicao_agromart.md
-    - Abstraction Sheets: gqm/abstraction-sheet.md
+  - Fase 2:
+      - GQM: gqm/gqm_definicao_agromart.md
+      - Abstraction Sheets: gqm/abstraction-sheet.md
   - Fase 3: fase3/fase3.md
   - Fase 4:
-    - Compatibilidade:
-      - Q1: fase4/compatibilidade/q1.md
-      - Q2: fase4/compatibilidade/q2.md
-      - Q3: fase4/compatibilidade/q3.md 
-    - Usabilidade:
-      - Q1: fase4/usabilidade/q1.md
-      - Q2: fase4/usabilidade/q2.md
-      - Q3: fase4/usabilidade/q3.md 
-    - Conclusão: fase4/conclusao.md
-
+      - Compatibilidade:
+          - Q1: fase4/compatibilidade/q1.md
+          - Q2: fase4/compatibilidade/q2.md
+          - Q3: fase4/compatibilidade/q3.md
+      - Usabilidade:
+          - Q1: fase4/usabilidade/q1.md
+          - Q2: fase4/usabilidade/q2.md
+          - Q3: fase4/usabilidade/q3.md
+      - Conclusão: fase4/conclusao.md
+  - Gestão: gestao/gestao-projeto.md
