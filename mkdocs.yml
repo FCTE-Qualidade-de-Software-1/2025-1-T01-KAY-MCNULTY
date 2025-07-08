@@ -42,6 +42,7 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.highlight
   - pymdownx.tabbed
+  - pymdownx.emoji
   - toc:
       permalink: true
 
@@ -53,10 +54,10 @@ extra_javascript:
 
 nav:
   - Início: index.md
-  - Fase 1: processo/processo_avaliacao_agromart.md
+  - Fase 1: fase1/processo_avaliacao_agromart.md
   - Fase 2:
-      - GQM: gqm/gqm_definicao_agromart.md
-      - Abstraction Sheets: gqm/abstraction-sheet.md
+      - GQM: fase2/gqm_definicao_agromart.md
+      - Abstraction Sheets: fase2/abstraction-sheet.md
   - Fase 3: fase3/fase3.md
   - Fase 4:
       - Compatibilidade:

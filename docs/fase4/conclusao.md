@@ -77,9 +77,11 @@ Contudo, para aprimorar ainda mais a experiência do usuário e a estabilidade t
 | [Camile](http://github.com/Camile0318   )       | 20%                 |
 | [Bruno Duarte]( https://github.com/bbduarte )                   | 20%                 |
 
-## Histórico de versões
+--- 
 
-| Versão | Data       | Descrição                   | Autor          | Revisor     |
-|--------|------------|-----------------------------|----------------|-------------|
-| 1.0    | 08/07/2025 | Criação do documento de conclusão    | [Júlia Massuda](http://github.com/JuliaReis18)   | -   |
+## 📝 Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------- | ----------- |
+| 1.0    | 08/07/2025 | Criação do documento de conclusão    | [Júlia Massuda](http://github.com/JuliaReis18)   | [Eduardo Belarmino](https://github.com/eduard0803) |
 

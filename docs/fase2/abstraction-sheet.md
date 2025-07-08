@@ -10,7 +10,7 @@
 | **Hipóteses de Base (Estimativas)** | - H1: 80% dos usuários concluem cadastro de lojas e produtos sem suporte.<br>- H2: A maioria localiza loja em menos de 2 minutos.<br>- H3: Mais de 75% avaliam a interface como positiva. |
 | **Impacto dos Fatores de Variação** | Usuários com menor familiaridade tecnológica podem apresentar menor taxa de sucesso no cadastro e maior tempo para encontrar lojas, impactando as hipóteses H1 e H2. |
 
-<br>
+---
 
 # Objetivo de Medição 2: Compatibilidade
 
@@ -24,14 +24,12 @@
 | **Hipóteses de Base (Estimativas)** | - H1: O sistema apresenta 100% de consistência visual e funcional nos navegadores testados.<br>- H2: Pelo menos 95% dos testes têm sucesso no Android 9+.<br>- H3: Ocorrências de incompatibilidades graves são inferiores a 2%. |
 | **Impacto dos Fatores de Variação** | Versões de navegadores não testadas ou versões de Android inferiores à 9 podem apresentar falhas de renderização e comportamento inesperado, impactando diretamente as hipóteses. |
 
+---
 
-<br>
+## 📝 Histórico de Versões
 
-
-## Historico de versões
-
-| Versão |   Data  | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---- | ------ | ---------- | ---------- |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------- | ----------- |
 | 1.0 | 02/06/2025 | Criação dos abstraction sheets. | [Diogo Ferreira](http://github.com/fdiogo1) | [Eduardo Belarmino](https://github.com/eduard0803) | 
 | 1.1 | 02/06/2025 | Atualização com base nos objetivos de medição detalhados. | [Diogo Ferreira](http://github.com/fdiogo1) | [Eduardo Belarmino](https://github.com/eduard0803) | 
 | 1.2 | 03/06/2025 | Edição da disposição das Abstraction Sheets. | [Júlia Massuda](https://github.com/JuliaReis18) | [Eduardo Belarmino](https://github.com/eduard0803) | 

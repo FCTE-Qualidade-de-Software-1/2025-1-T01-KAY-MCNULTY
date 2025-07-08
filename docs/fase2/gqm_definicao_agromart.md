@@ -1,12 +1,12 @@
 # GQM - Fase de Definição  
 
-
 ## Objetivo de Negócio do AgroMart
 
 O AgroMart tem como objetivo principal facilitar a comercialização de produtos agroecológicos por meio da conexão direta entre agricultores familiares e consumidores, utilizando uma plataforma digital acessível e de fácil uso. A solução foi pensada especialmente para atender produtores com pouca familiaridade tecnológica e atuar como uma alternativa prática durante períodos de isolamento social, como na pandemia da COVID-19.
 
 Com isso, o AgroMart contribui para o fortalecimento da agricultura de base familiar, a valorização do consumo local e a promoção de cadeias sustentáveis de produção e distribuição, alinhando-se aos Objetivos de Desenvolvimento Sustentável da ONU, como ODS 2 (Fome Zero), ODS 3 (Saúde e Bem-Estar) e ODS 12 (Consumo e Produção Responsáveis).
 
+---
 
 ## Objetivo de Medição 1 – Usabilidade
 
@@ -27,6 +27,8 @@ Com isso, o AgroMart contribui para o fortalecimento da agricultura de base fami
 - **Q3:** A interface é compreensível e intuitiva para diferentes públicos?  
   **Hipótese Q3:** Mais de 75% dos usuários avaliam positivamente a interface em testes de usabilidade.
 
+---
+
 ## Objetivo de Medição 2 – Compatibilidade
 
 **Analisar:** o sistema AgroMart (web e mobile)  
@@ -46,6 +48,7 @@ Com isso, o AgroMart contribui para o fortalecimento da agricultura de base fami
 - **Q3:** Há falhas ou comportamentos inesperados ao alternar entre dispositivos ou sistemas?  
   **Hipótese Q3:** Ocorrências de incompatibilidades graves são inferiores a 2%.
 
+---
 
 ## Relação entre Objetivos de Medição, Questões e Métricas
 
@@ -65,8 +68,7 @@ Com isso, o AgroMart contribui para o fortalecimento da agricultura de base fami
 | Q2: O aplicativo mobile funciona corretamente em diferentes versões do Android?            | M2: Taxa de compatibilidade por versão Android (%) |
 | Q3: Há falhas ou comportamentos inesperados ao alternar entre dispositivos ou sistemas?    | M3: Número médio de falhas por plataforma testada  |
 
-
-
+---
 
 ## Tabela de Contribuição
 
@@ -78,6 +80,8 @@ Com isso, o AgroMart contribui para o fortalecimento da agricultura de base fami
 | 221008580  | Eduardo Silva        | 20%              |
 | 231035150  | Júlia Reis        | 20%              |
 
+---
+
 ## Bibliografia
 
 - **ISO/IEC 25010:2011.** *Systems and Software Engineering — Systems and Software Quality Requirements and Evaluation (SQuaRE) — System and Software Quality Models*. International Organization for Standardization, 2011.
@@ -85,6 +89,8 @@ Com isso, o AgroMart contribui para o fortalecimento da agricultura de base fami
 - BASILI, Victor R.; CALDIERA, Gianluigi; ROMBACH, H. Dieter. *The Goal Question Metric Approach*. Encyclopedia of Software Engineering, 1994.
 
 - PRESSMAN, Roger S. *Engenharia de Software: uma abordagem profissional*. 7. ed. São Paulo: McGraw-Hill, 2010.
+
+---
 
 ## Referências Bibliográficas
 
@@ -94,9 +100,11 @@ Com isso, o AgroMart contribui para o fortalecimento da agricultura de base fami
 
 - ONU – Organização das Nações Unidas. *Objetivos de Desenvolvimento Sustentável (Agenda 2030)*. Disponível em: [https://brasil.un.org/pt-br/sdgs](https://brasil.un.org/pt-br/sdgs). Acesso em: 3 jun. 2025.
 
+---
 
-## Histórico de versões
-| Versão |   Data  | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---- | ------ | ---------- | ---------- |
+## 📝 Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------- | ----------- |
 | 1.0 | 02/06/2025 | Criação da página de definição. | [Diogo Ferreira](https://github.com/fdiogo1) | [Júlia Massuda](http://github.com/JuliaReis18)
 | 1.1 | 03/06/2025 | Adicionando tabela de contribuição, Referências e Histórico de versões. | [Júlia Massuda](http://github.com/JuliaReis18) | [Eduardo Belarmino](https://github.com/eduard0803) |

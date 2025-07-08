@@ -23,37 +23,37 @@ Este documento apresenta a aplicação de métricas de acompanhamento do projeto
 ###  Checklist de Entregas
 
 Março  
-[x] 24/03 – Apresentação do Plano de Ensino  
-[x] 26/03 – Formação das equipes
+:white_check_mark: 24/03 – Apresentação do Plano de Ensino  
+:white_check_mark: 26/03 – Formação das equipes
 
 Abril  
-[x] 07 e 09/04 – Não tem aula  
-[x] 21/04 – Feriado  
-[x] 24 a 30/04 – TAU1
+:white_check_mark: 07 e 09/04 – Não tem aula  
+:white_check_mark: 21/04 – Feriado  
+:white_check_mark: 24 a 30/04 – TAU1
 
 Maio  
-[x] 19/05 – PC1  
-[x] 21/05 – EU1 / AP1  
-[x] 28/05 a 02/06 – TAU2
+:white_check_mark: 19/05 – PC1  
+:white_check_mark: 21/05 – EU1 / AP1  
+:white_check_mark: 28/05 a 02/06 – TAU2
 
 Junho  
-[x] 04/06 – PC2  
-[x] 11/06 – EU2 / AP2  
-[x] 25/06 – Desenvolvimento do Projeto  
-[x] 30/06 – Continuação
+:white_check_mark: 04/06 – PC2  
+:white_check_mark: 11/06 – EU2 / AP2  
+:white_check_mark: 25/06 – Desenvolvimento do Projeto  
+:white_check_mark: 30/06 – Continuação
 
 Julho  
-[x] 02/07 – PC Final  
-[x] 07/07 – EU3 (Entrega da Unidade 3)  
-[x] 07/07 – Ponto de Controle Final  
-[x] 08/07 – Entrega Final  
-[ ] 09/07 – Apresentação Final  
-[ ] 10–13/07 – TAU3  
-[ ] 14/07 – Apresentação Extra  
-[ ] 16/07 – TAG + Avaliação por Pares  
-[ ] 21/07 – Prova Substitutiva  
-[ ] 23/07 – Revisão de Notas  
-[ ] 28/07 – Revisão Final
+:white_check_mark: 02/07 – PC Final  
+:white_check_mark: 07/07 – EU3 (Entrega da Unidade 3)  
+:white_check_mark: 07/07 – Ponto de Controle Final  
+:white_check_mark: 08/07 – Entrega Final  
+:white_circle: 09/07 – Apresentação Final  
+:white_circle: 10–13/07 – TAU3  
+:white_circle: 14/07 – Apresentação Extra  
+:white_circle: 16/07 – TAG + Avaliação por Pares  
+:white_circle: 21/07 – Prova Substitutiva  
+:white_circle: 23/07 – Revisão de Notas  
+:white_circle: 28/07 – Revisão Final
 
 **Conclusão:** 11 de 13 marcos principais cumpridos até 08/07 → **85% de conformidade**
 
@@ -67,28 +67,28 @@ Julho
 
 ###  Fase 1: Estabelecer Requisitos de Avaliação
 
-[x] Estabelecer propósito  
-[x] Identificar produtos  
-[x] Especificar modelo de qualidade (PSM)
+:white_check_mark: Estabelecer propósito  
+:white_check_mark: Identificar produtos  
+:white_check_mark: Especificar modelo de qualidade (PSM)
 
 ###  Fase 2: Especificar a Avaliação
 
-[x] Seleção de métricas GQM  
-[x] Objetivo claro  
-[x] Perguntas e hipóteses  
-[x] Critérios e níveis  
-[x] Gráfico GQM
+:white_check_mark: Seleção de métricas GQM  
+:white_check_mark: Objetivo claro  
+:white_check_mark: Perguntas e hipóteses  
+:white_check_mark: Critérios e níveis  
+:white_check_mark: Gráfico GQM
 
 ###  Fase 3: Projetar a Avaliação
 
-[x] Plano de avaliação  
-[x] Cronograma  
-[x] Responsáveis
+:white_check_mark: Plano de avaliação  
+:white_check_mark: Cronograma  
+:white_check_mark: Responsáveis
 
 ###  Fase 4: Executar a Avaliação
 
-[x] Coleta de dados (quantitativos e qualitativos)  
-[x] Julgamento e melhorias (protótipo + proposta de melhoria)
+:white_check_mark: Coleta de dados (quantitativos e qualitativos)  
+:white_check_mark: Julgamento e melhorias (protótipo + proposta de melhoria)
 
 **Conclusão:** 100% de tarefas entregues corretamente
 
@@ -234,14 +234,13 @@ A análise gráfica evidencia que, apesar de pequenos desvios entre o trabalho p
 | [Eduardo](http://github.com/Eduard0803)        | 20%                 |
 | [Camile](http://github.com/Camile0318   )       | 20%                 |
 | [Bruno Duarte]( https://github.com/bbduarte )                   | 20%                 |
+
 ---
 
+## 📝 Histórico de Versões
 
-
-## Histórico de versões
-
-| Versão | Data       | Descrição                   | Autor          | Revisor     |
-|--------|------------|-----------------------------|----------------|-------------|
-| 1.0    | 08/07/2025 | Criação do documento de gestão     | [Bruno Duarte]( https://github.com/bbduarte )   | -   |
-| 1.1   | 08/07/2025 | Organizando o padrão de estruturação da página   | [Júlia Massuda](http://github.com/JuliaReis18)   | -   |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------- | ----------- |
+| 1.0    | 08/07/2025 | Criação do documento de gestão     | [Bruno Duarte]( https://github.com/bbduarte )   | [Eduardo Belarmino](https://github.com/eduard0803) |
+| 1.1   | 08/07/2025 | Organizando o padrão de estruturação da página   | [Júlia Massuda](http://github.com/JuliaReis18)   | [Eduardo Belarmino](https://github.com/eduard0803) |
 

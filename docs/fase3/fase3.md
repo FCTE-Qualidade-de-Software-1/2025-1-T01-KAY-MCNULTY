@@ -94,10 +94,10 @@ Ao utilizar o método de **pensar em voz alta**, espera-se obter insights reais 
 
 ---
 
-##  Histórico de Versões
+## 📝 Histórico de Versões
 
-| Versão | Data       | Descrição                        | Autor(es)                             | Revisor(es)         |
-|--------|------------|----------------------------------|----------------------------------------|---------------------|
-| 1.0    | 08/07/2025 | Criação do documento             | [Júlia Massuda](http://github.com/JuliaReis18)    | -     |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------- | ----------- |
+| 1.0    | 08/07/2025 | Criação do documento             | [Júlia Massuda](http://github.com/JuliaReis18) | [Eduardo Belarmino](https://github.com/eduard0803) | 
 
 
