@@ -51,7 +51,7 @@ extra:
 
 nav:
   - Início: index.md
-  - Propósito de Avaliação do Produto: processo/processo_avaliacao_agromart.md
-  - GQM: 
-    - Definição: gqm/gqm_definicao_agromart.md
+  - Fase 1: processo/processo_avaliacao_agromart.md
+  - Fase 2: 
+    - GQM: gqm/gqm_definicao_agromart.md
     - Abstraction Sheets: gqm/abstraction-sheet.md
