@@ -32,33 +32,24 @@ A avaliação de compatibilidade do AgroMart, na Fase 4 (Q1), focou em garantir 
 **Conclusão:** Todas as fases foram percorridas adequadamente.
 
 ---
-## Gestão do Projeto com métricas PSM/CID 
 
-PSM (Practical Software Measurement) é um modelo de medição que oferece uma abordagem estruturada para coletar e analisar dados de projetos de software, visando melhorar processos e produtos. Ele foca em métricas práticas de tamanho, esforço, cronograma, qualidade e desempenho de processos. O termo CID é frequentemente adicionado para reforçar o foco em custo, informações e desempenho (Cost, Information, and Performance Data), enfatizando a importância de coletar e usar dados acionáveis para otimizar a gestão e os resultados do projeto.
-
-Aqui trataremos de :
-- Desempenho dos Processos
-- Calendário e Progresso
-- Recursos e Custos
-
-##  1. Desempenho / Performance
-# Gestão do Projeto com Métricas PSM/CID
+## Gestão do Projeto com Métricas PSM/CID
 
 O **PSM (Practical Software Measurement)** é um modelo de medição que oferece uma abordagem estruturada para coletar e analisar dados de projetos de software, visando **melhorar processos e produtos**. Ele foca em métricas práticas de **tamanho, esforço, cronograma, qualidade e desempenho de processos**. O termo **CID** é frequentemente adicionado para reforçar o foco em **custo, informações e desempenho (Cost, Information, and Performance Data)**, enfatizando a importância de coletar e usar dados acionáveis para otimizar a gestão e os resultados do projeto.
 
 ---
 
-## 1. Abordagem de Avaliação PSM/CID no AgroMart
+### 1. Abordagem de Avaliação PSM/CID no AgroMart
 
 Ao utilizarmos o **PSM/CID** em conjunto, priorizamos a coleta e análise de dados que impactam diretamente o custo, a qualidade das informações e o desempenho real dos processos e do produto. Isso assegura que a medição seja uma ferramenta prática para aprimorar a entrega do projeto. O **PSM** define "como medir" e organiza as categorias, enquanto o **CID** destaca "o que é mais crítico medir" nessas categorias, garantindo que as informações de custo, dados e performance estejam sempre disponíveis para uma tomada de decisão eficaz.
 
 ---
 
-## 2. Como o PSM Guia a Medição de Performance no AgroMart
+### 2. Como o PSM Guia a Medição de Performance no AgroMart
 
 O PSM oferece a estrutura essencial para avaliarmos o desempenho do AgroMart de forma sistemática e relevante, focando em informações que realmente importam para o sucesso do projeto.
 
-### 2.1. Foco em Propósitos e Perguntas (GQM - Goal-Question-Metric) no AgroMart
+#### 2.1. Foco em Propósitos e Perguntas (GQM - Goal-Question-Metric) no AgroMart
 
 No AgroMart, o paradigma **GQM** é a base para definir o que e como medir:
 
@@ -86,7 +77,7 @@ No AgroMart, o paradigma **GQM** é a base para definir o que e como medir:
     * **Para Qualidade:** `Número de Defeitos Reportados pós-teste`, `Percentual de Sucesso em Testes de Compatibilidade/Usabilidade`, `Percentual de Aderência aos Critérios de Entrega`.
     * **Para Cronograma:** `Desvio da Linha Real em relação à Planejada no Burndown Chart`, `Percentual de Marcos Entregues no Prazo`, `Razão entre Tarefas Comprometidas e Concluídas`.
 
-### 2.2. Categorias de Medição Definidas no AgroMart
+#### 2.2. Categorias de Medição Definidas no AgroMart
 
 Aplicamos as cinco categorias do PSM para ter uma visão completa:
 
@@ -96,7 +87,7 @@ Aplicamos as cinco categorias do PSM para ter uma visão completa:
 * **Qualidade:** Verificamos a **Aderência às Instruções da Docente** (100% de conformidade) e a **Compatibilidade em Diferentes Navegadores** (99,3% de sucesso no Q1 da Fase 4).
 * **Desempenho dos Processos:** Analisamos o **Cumulative Flow Diagram (CFD)** para entender o fluxo de trabalho e WIP, o **Burndown Chart** para a taxa de progresso, o **Committed vs. Completed** para a capacidade de entrega e o **Cycle Time** para a eficiência da finalização de tarefas.
 
-### 2.3. Foco em Dados Acionáveis para o AgroMart
+#### 2.3. Foco em Dados Acionáveis para o AgroMart
 
 Para o AgroMart, as métricas devem gerar informações que nos permitam agir:
 
@@ -104,7 +95,7 @@ Para o AgroMart, as métricas devem gerar informações que nos permitam agir:
 * O Burndown acima da linha planejada nos leva a **reavaliar as estimativas** ou identificar impedimentos.
 * Um aumento no Cycle Time pode nos levar a **revisar o fluxo** de trabalho ou a complexidade das tarefas.
 
-### 2.4. Ciclo de Medição Contínua no AgroMart
+#### 2.4. Ciclo de Medição Contínua no AgroMart
 
 A avaliação do AgroMart não é um evento único, mas um ciclo:
 
@@ -118,11 +109,11 @@ Ao aplicar o PSM dessa forma, o projeto AgroMart não só mede seu progresso, ma
 
 ---
 
-## 3. Como o CID Age no Contexto do AgroMart
+### 3. Como o CID Age no Contexto do AgroMart
 
 O **CID** atua como uma lente que **prioriza e destaca as informações mais críticas** para a gestão do projeto, complementando o "como medir" do PSM.
 
-### 3.1. Cost (Custo) no AgroMart
+#### 3.1. Cost (Custo) no AgroMart
 
 O CID foca na **eficiência dos recursos financeiros e de mão de obra** do AgroMart:
 
@@ -130,7 +121,7 @@ O CID foca na **eficiência dos recursos financeiros e de mão de obra** do Agro
 * **Identificar Desperdícios:** Observaria horas extras não justificadas, retrabalho excessivo (falhas de qualidade que geram custo adicional) ou uso ineficiente de ferramentas.
 * **Análise de ROI (Retorno sobre Investimento) Simplificada:** Mesmo que simulado, o CID incentivaria a pensar se o investimento simulado está gerando as entregas e a qualidade esperadas.
 
-### 3.2. Information (Informação) no AgroMart
+#### 3.2. Information (Informação) no AgroMart
 
 O CID avalia a **qualidade e a disponibilidade dos dados de gestão** do AgroMart:
 
@@ -138,7 +129,7 @@ O CID avalia a **qualidade e a disponibilidade dos dados de gestão** do AgroMar
 * **Integridade dos Dados:** Checaria se os dados coletados (do Kanban, GitHub) são precisos e consistentes. Inconsistências (ex: no Burndown) podem indicar problemas de dados ou processo.
 * **Acesso à Informação:** Avaliaria se a equipe e stakeholders têm acesso fácil às métricas e relatórios importantes.
 
-### 3.3. Performance Data (Dados de Desempenho) no AgroMart
+#### 3.3. Performance Data (Dados de Desempenho) no AgroMart
 
 Esta parte alinha-se com suas métricas, mas o CID as enfatiza sob uma ótica de "impacto crítico":
 
@@ -147,7 +138,7 @@ Esta parte alinha-se com suas métricas, mas o CID as enfatiza sob uma ótica de
 
 ---
 
-## 4. Pontos Críticos Apontados pelo CID no AgroMart
+### 4. Pontos Críticos Apontados pelo CID no AgroMart
 
 Com base nos dados que você já apresentou, o CID apontaria os seguintes pontos como **críticos ou de atenção imediata**:
 
@@ -169,11 +160,11 @@ Com base nos dados que você já apresentou, o CID apontaria os seguintes pontos
 
 ---
 
-## 5. Indicadores Visuais de Desempenho da Sprint
+### 5. Indicadores Visuais de Desempenho da Sprint
 
 A seguir são apresentados os principais gráficos utilizados para análise do desempenho da equipe de desenvolvimento do sistema **AgroMart** durante os ciclos de sprint. Os dados foram coletados manualmente a partir do acompanhamento do quadro Kanban e das ferramentas de versionamento utilizadas.
 
-### 5.1. Gráfico de Fluxo Cumulativo (CFD)
+#### 5.1. Gráfico de Fluxo Cumulativo (CFD)
 
 Este gráfico representa a evolução das tarefas ao longo dos dias da Sprint 1, separadas por status:
 
@@ -191,7 +182,7 @@ Este gráfico representa a evolução das tarefas ao longo dos dias da Sprint 1,
 
 ---
 
-### 5.2. Gráfico de Burndown
+#### 5.2. Gráfico de Burndown
 
 Este gráfico compara o trabalho **planejado** com o trabalho **real** concluído na Sprint 1:
 
@@ -209,7 +200,7 @@ Este gráfico compara o trabalho **planejado** com o trabalho **real** concluíd
 
 ---
 
-### 5.3. Gráfico de Comprometimento vs Conclusão
+#### 5.3. Gráfico de Comprometimento vs Conclusão
 
 Comparação entre tarefas comprometidas e efetivamente entregues por sprint:
 
@@ -225,7 +216,7 @@ Comparação entre tarefas comprometidas e efetivamente entregues por sprint:
 
 ---
 
-### 5.4. Gráfico de Cycle Time
+#### 5.4. Gráfico de Cycle Time
 
 Tempo médio (em dias) para finalização de cada tarefa:
 
@@ -252,11 +243,11 @@ A análise gráfica evidencia que, apesar de pequenos desvios entre o trabalho p
 **Objetivo:** Obter um planejamento adequado com as datas de entrega.  
 **Métrica:** Conformidade com datas de entrega.  
 
-## Calendário de Entregas do Projeto AgroMart
+### Calendário de Entregas do Projeto AgroMart
 
 Este calendário visualiza as principais entregas e marcos do projeto AgroMart.
 
-### Março de 2025
+#### Março de 2025
 
 | Dom | Seg | Ter | Qua | Qui | Sex | Sáb |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -272,7 +263,7 @@ Este calendário visualiza as principais entregas e marcos do projeto AgroMart.
 
 ---
 
-### Abril de 2025
+#### Abril de 2025
 
 | Dom | Seg | Ter | Qua | Qui | Sex | Sáb |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -288,7 +279,7 @@ Este calendário visualiza as principais entregas e marcos do projeto AgroMart.
 
 ---
 
-### Maio de 2025
+#### Maio de 2025
 
 | Dom | Seg | Ter | Qua | Qui | Sex | Sáb |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -304,7 +295,7 @@ Este calendário visualiza as principais entregas e marcos do projeto AgroMart.
 
 ---
 
-### Junho de 2025
+#### Junho de 2025
 
 | Dom | Seg | Ter | Qua | Qui | Sex | Sáb |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -322,7 +313,7 @@ Este calendário visualiza as principais entregas e marcos do projeto AgroMart.
 
 ---
 
-### Julho de 2025
+#### Julho de 2025
 
 | Dom | Seg | Ter | Qua | Qui | Sex | Sáb |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -374,8 +365,6 @@ Este calendário visualiza as principais entregas e marcos do projeto AgroMart.
 | Equipamentos              | R$ 10.000,00    | 5    | R$ 50.000,00     |
 | **Total Geral**           | —              | —    | **R$ 173.750,00** |
 
-
----
 ---
 
 ##  Tabela de Contribuição
@@ -387,14 +376,13 @@ Este calendário visualiza as principais entregas e marcos do projeto AgroMart.
 | [Eduardo](http://github.com/Eduard0803)        | 20%                 |
 | [Camile](http://github.com/Camile0318   )       | 20%                 |
 | [Bruno Duarte]( https://github.com/bbduarte )                   | 20%                 |
+
 ---
 
+## 📝 Histórico de Versões
 
-
-## Histórico de versões
-
-| Versão | Data       | Descrição                   | Autor          | Revisor     |
-|--------|------------|-----------------------------|----------------|-------------|
-| 1.0    | 08/07/2025 | Criação do documento de gestão     | [Bruno Duarte]( https://github.com/bbduarte )   | -   |
-| 1.1   | 08/07/2025 | Organizando o padrão de estruturação da página   | [Júlia Massuda](http://github.com/JuliaReis18)   | -   |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------- | ----------- |
+| 1.0    | 08/07/2025 | Criação do documento de gestão     | [Bruno Duarte]( https://github.com/bbduarte ) | [Eduardo Belarmino](https://github.com/eduard0803) | 
+| 1.1   | 08/07/2025 | Organizando o padrão de estruturação da página   | [Júlia Massuda](http://github.com/JuliaReis18) | [Eduardo Belarmino](https://github.com/eduard0803) | 
 
