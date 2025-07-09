@@ -91,7 +91,7 @@ No AgroMart, o paradigma **GQM** é a base para definir o que e como medir:
 Aplicamos as cinco categorias do PSM para ter uma visão completa:
 
 * **Tamanho:** No AgroMart, poderíamos estimar o **Tamanho das Histórias de Usuário** (e.g., em Pontos de História, se utilizarmos Scrum) ou o número de requisitos funcionais implementados.
-* **Esforço e Custo:** Medimos as **Horas de trabalho investidas** pela equipe (ex: 320h por membro) e o **Custo total simulado** (R$ 34.000,00), acompanhando o orçamento.
+* **Esforço e Custo:** Medimos as **Horas de trabalho investidas** pela equipe (ex: 60h por membro) e o **Custo total simulado** (R$ 173.750,00), acompanhando o orçamento.
 * **Cronograma:** Avaliamos a **Conformidade com Datas de Entrega** (seu checklist de 85%) e o progresso das sprints através do **Burndown Chart**.
 * **Qualidade:** Verificamos a **Aderência às Instruções da Docente** (100% de conformidade) e a **Compatibilidade em Diferentes Navegadores** (99,3% de sucesso no Q1 da Fase 4).
 * **Desempenho dos Processos:** Analisamos o **Cumulative Flow Diagram (CFD)** para entender o fluxo de trabalho e WIP, o **Burndown Chart** para a taxa de progresso, o **Committed vs. Completed** para a capacidade de entrega e o **Cycle Time** para a eficiência da finalização de tarefas.
