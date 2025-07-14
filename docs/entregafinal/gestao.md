@@ -360,10 +360,10 @@ Este calendário visualiza as principais entregas e marcos do projeto AgroMart.
 
 | Item                      | Valor Unitário | Qtde | Total (R$)       |
 | ------------------------- | -------------- | ---- | ---------------- |
-| Mão de obra (300h x R$80) | R$ 24.00,00    | 5    | R$ 120.000,00     |
+| Mão de obra (300h x R$20) | R$ 6.000,00    | 5    | R$ 30.000,00     |
 | Internet                  | R$ 750,00      | 5    | R$ 3.750,00      |
 | Equipamentos              | R$ 10.000,00    | 5    | R$ 50.000,00     |
-| **Total Geral**           | —              | —    | **R$ 173.750,00** |
+| **Total Geral**           | —              | —    | **R$ 83.750,00** |
 
 ---
 
